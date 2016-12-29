@@ -1,0 +1,11 @@
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\k1dav\Documents\GitHub\DBpractice\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml

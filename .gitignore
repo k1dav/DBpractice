@@ -77,3 +77,20 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/JavaApplication1/nbproject/private/
+/JavaApplication1/build/
+/JavaApplication2/nbproject/private/
+/JavaApplication2/build/
+/JavaApplication3/nbproject/private/
+/JavaApplication3/build/
+/PhpProject1/nbproject/private/
+/JavaApplication4/nbproject/private/
+/JavaApplication4/build/
+/WebApplication1/nbproject/private/
+/WebApplication1/build/
+/JavaApplication1/dist/
+/JavaApplication2/dist/
+/JavaApplication3/dist/
+/JavaApplication4/dist/
+/FirstServlet/nbproject/private/
+/FirstServlet/build/

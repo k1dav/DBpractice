@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>HelloWorld</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <H1>Form test</h1>
+		<form action="/FirstServlet/HelloWorldServlet" method="POST"> 
+			<input type="text" name="inputfield1"><br>
+			<input type="text" name="inputfield2"><br>
+			<input type="submit" value="submit">
+		</form>
+               <form action="/FirstServlet/ProtectedResource" method="POST"> 
+			<input type="text" name="1"><br>
+			<input type="text" name="2"><br>
+			<input type="submit" value="11">
+		</form>
+              <form action="/FirstServlet/SessionTracker" method="POST"> 
+			<input type="text" name="3"><br>
+			<input type="text" name="4"><br>
+			<input type="submit" value="22">
+		</form>
+    </body>
+</html>
